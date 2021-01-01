@@ -1,0 +1,53 @@
+
+/* body
+{
+    position: relative;
+    width: 50%;
+    height: 50vh;
+    overflow: hidden;
+    background-color: black;
+    text-align:center;
+} */
+@font-face {
+	font-family: 'slabo';
+	src: url(fonts/Slabo27px-Regular.ttf);
+}
+
+body{
+    font-family: 'slabo';
+    margin 0;
+    padding: 0;
+    display: block;
+    background-color: black;
+    text-align:center;
+    overflow: hidden;
+}
+.list-account{
+    margin: 0;
+    line-height: 10;
+    font-size: 200%;
+}
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    transform   : scale(2.5, 2.5);
+}
+a{
+    color: #65d42d;
+    text-shadow: 0 0 4px #65d42d;
+    text-align:center;
+}
+.mylinks{
+    background: url(images/consoleflash.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0 18px 0 0;
+}
+h2{
+    font-size: 210%;
+}
