@@ -38,10 +38,10 @@ h1{
     transform   : scale(2.5, 2.5);
 }
 a{
-	position: relative;　　
     color: #65d42d;
     text-shadow: 0 0 4px #65d42d;
     text-align:center;
+    position: relative;
 }
 .mylinks{
     background: url(images/consoleflash.gif);
