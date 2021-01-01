@@ -35,7 +35,7 @@ h1{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
-/*     transform   : scale(2.5, 2.5); */
+    /* transform   : scale(2.5, 2.5); */
 }
 a{
     color: #65d42d;
@@ -50,5 +50,5 @@ a{
     padding: 0 18px 0 0;
 }
 h2{
-    font-size: 210%;
+    font-size: 180%;
 }
